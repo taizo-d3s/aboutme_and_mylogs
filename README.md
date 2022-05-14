@@ -26,7 +26,7 @@
 
 # docs
 
-underconstruction...
+- [M5ATOMでDualShock4を動かす](https://github.com/taizo-d3s/aboutme_and_mylogs/tree/main/doc/m5atom_DUALSHOCK4)
 
 # Contact
 taizo_d3s@digientity.com
