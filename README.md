@@ -27,6 +27,10 @@
 # docs
 
 - [M5ATOMでDualShock4を動かす](https://github.com/taizo-d3s/aboutme_and_mylogs/tree/main/doc/m5atom_DUALSHOCK4)
+- [RP2040(いわいるRasPico)で、お手軽に（＝なるだけ時間をかけずに）実用(!?)なモノを作る](https://github.com/taizo-d3s/aboutme_and_mylogs/blob/main/doc/RP2040/README.md)
+
+# members of organization
+- [EATEC 電気通信大学企業家懇話会](http://eatec.org/biz/)
 
 # Contact
 taizo_d3s@digientity.com
