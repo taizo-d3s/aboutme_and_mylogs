@@ -22,3 +22,12 @@ i2cを使ってセンサ値を読み取る
 
 [こちら](https://shikarunochi.matrix.jp/?p=3859)を参考に
 https://garchiving.com/how-to-bmx055-with-sample/
+
+
+## でこんなんになりました。
+
+　結果を書く
+
+## とりあえずの考察
+
+- ミニ四駆は本当によくできている。
