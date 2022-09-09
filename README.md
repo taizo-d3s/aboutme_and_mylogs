@@ -29,6 +29,7 @@
 - [M5ATOMでDualShock4を動かす](https://github.com/taizo-d3s/aboutme_and_mylogs/tree/main/doc/m5atom_DUALSHOCK4/README.md)
 - [RP2040(いわいるRasPico)で、お手軽に（＝なるだけ時間をかけずに）実用(!?)なモノを作る](https://github.com/taizo-d3s/aboutme_and_mylogs/blob/main/doc/RP2040/README.md)
 - [ロボトレーサを作る](https://github.com/taizo-d3s/aboutme_and_mylogs/blob/main/doc/tracer_for_get_matlab/README.md)
+- [名刺基板](https://github.com/taizo-d3s/aboutme_and_mylogs/tree/main/doc/namecard_atsam_arduino)
 - (extra)[古いLCDをリサイクルに出す](https://github.com/taizo-d3s/aboutme_and_mylogs/blob/main/doc/recycle/README.md)
 # members of organization
 - [EATEC 電気通信大学企業家懇話会](http://eatec.org/biz/)
